@@ -1,5 +1,5 @@
 # https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
-#             Step 2: Our Blockchain as an AP
+
 
 
 import hashlib
